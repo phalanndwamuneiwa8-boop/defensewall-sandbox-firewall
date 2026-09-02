@@ -1,0 +1,17 @@
+# This file is used to override language statistics
+# Do not edit manually
+src/*.ts linguist-detectable
+
+*.md linguist-documentation
+* text=auto eol=lf
+*.svg text
+dist/* linguist-vendored
+docs/*.html linguist-vendored
+
+*.min.js linguist-generated
+*.gif binary
+
+*.htm linguist-vendored
+
+src/**/*.ts linguist-detectable
+*.jpg binary
