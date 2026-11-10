@@ -1,0 +1,6 @@
+.env.local
+build/
+.next/
+.env
+.cache/
+npm-debug.log*
